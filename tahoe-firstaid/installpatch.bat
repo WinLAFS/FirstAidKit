@@ -1,12 +1,12 @@
 @echo off
-echo This will install the new (0.10.1) dependencies List for the Installer, 
+echo This will install the new (1.10.1) dependencies List for the Installer, 
 echo it may not work after installation already failed
 echo press the anykey button
 pause
 If Exist ..\Tahoe.home. goto usage
 
 echo please copy the WinLAFS-FirstAid directory tahoe-FirstAid
-echo in the home directory of Tahoe-Lafs 0.10.0
+echo in the home directory of Tahoe-Lafs 1.10.0
 echo first aid installation failed
 echo press the anykey button
 pause
