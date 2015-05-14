@@ -4,7 +4,7 @@ This is aimed to make the installation of Tahoe-LAFS 1.10.0
 
 easier only this version will need it.
 
-Tahoe-Lafs 0.10.1 will be hopefully easier to install on windows.
+Tahoe-Lafs 1.10.1 will be hopefully easier to install on windows.
 
 Follow this steps:
 unpack the WinLAFS-FirstAidKit
