@@ -8,10 +8,8 @@ Tahoe-Lafs 1.10.1 will be hopefully easier to install on windows.
 
 Follow this steps:
 unpack the WinLAFS-FirstAidKit
-copy the tahoe-firstaid directory to the base directory of tahoe-lafs 
-place tahoe-firstaid.zip in a unused new home directory of tahoe-lafs
+copy the tahoe-firstaid directory in a unused new home directory of tahoe-lafs 
 it is the directory with the file Tahoe.home
-and unzip it on this place
 cange to tahoe-firstaid directory and dubleclick install(.bat)
 
 This will copy the file  _auto_deps.py 
