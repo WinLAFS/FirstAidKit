@@ -10,7 +10,7 @@ Follow this steps:
 unpack the WinLAFS-FirstAidKit
 copy the tahoe-firstaid directory in a unused new home directory of tahoe-lafs 
 it is the directory with the file Tahoe.home
-cange to tahoe-firstaid directory and dubleclick install(.bat)
+cange to tahoe-firstaid directory and dubleclick installpatch(.bat)
 
 This will copy the file  _auto_deps.py 
 in the ..\src\allmydata\ directory
